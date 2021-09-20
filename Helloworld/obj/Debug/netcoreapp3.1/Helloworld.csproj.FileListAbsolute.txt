@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Azure-Beginings\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.exe
+C:\Users\User\source\repos\Azure-Beginings\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.deps.json
+C:\Users\User\source\repos\Azure-Beginings\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.runtimeconfig.json
+C:\Users\User\source\repos\Azure-Beginings\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.runtimeconfig.dev.json
+C:\Users\User\source\repos\Azure-Beginings\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.dll
+C:\Users\User\source\repos\Azure-Beginings\Helloworld\bin\Debug\netcoreapp3.1\Helloworld.pdb
+C:\Users\User\source\repos\Azure-Beginings\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Azure-Beginings\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.AssemblyInfo.cs
+C:\Users\User\source\repos\Azure-Beginings\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Azure-Beginings\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.dll
+C:\Users\User\source\repos\Azure-Beginings\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.pdb
+C:\Users\User\source\repos\Azure-Beginings\Helloworld\obj\Debug\netcoreapp3.1\Helloworld.genruntimeconfig.cache
